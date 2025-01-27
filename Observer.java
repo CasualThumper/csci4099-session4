@@ -1,7 +1,7 @@
 package HW3;
 
 public abstract class Observer {
-
+	// Hello
 	protected Shuttle shuttle;
 	public abstract void update();
 	
